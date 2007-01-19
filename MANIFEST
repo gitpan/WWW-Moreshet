@@ -1,0 +1,9 @@
+Build.PL
+Changes
+MANIFEST			This list of files
+
+lib/WWW/Moreshet.pm
+bin/moreshet.pl
+t/moreshet.t
+Makefile.PL
+META.yml
